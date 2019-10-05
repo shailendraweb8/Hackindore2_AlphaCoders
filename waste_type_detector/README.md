@@ -1,6 +1,7 @@
-# ml_offline
+# waste_type_detector
 
-A new Flutter application.
+Android & iOS Application for waste/garbage detector
+
 
 ## Getting Started
 
